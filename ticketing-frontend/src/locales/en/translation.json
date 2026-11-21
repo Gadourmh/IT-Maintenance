@@ -1,0 +1,19 @@
+{
+    "Paramètres": "Settings",
+    "Préférences d’interface": "Interface Preferences",
+    "Thème": "Theme",
+    "Clair": "Light",
+    "Sombre": "Dark",
+    "Langue": "Language",
+    "Rappels de Maintenance": "Maintenance Reminders",
+    "Activer les rappels": "Enable Reminders",
+    "Fréquence (jours)": "Frequency (days)",
+    "Sauvegarder les Paramètres UI": "Save UI Settings",
+    "Paramètres UI mis à jour": "UI Settings Updated",
+    "Rappel de maintenance mis à jour": "Maintenance Reminder Updated",
+    "Erreur lors du chargement des paramètres UI": "Error loading UI settings",
+    "Erreur lors de la mise à jour des paramètres UI": "Error updating UI settings",
+    "Erreur lors du chargement des paramètres de maintenance": "Error loading maintenance settings",
+    "Erreur lors de la mise à jour du rappel de maintenance": "Error updating maintenance reminder"
+  }
+  

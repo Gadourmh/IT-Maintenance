@@ -1,0 +1,18 @@
+{
+  "Paramètres": "Paramètres",
+  "Préférences d’interface": "Préférences d’interface",
+  "Thème": "Thème",
+  "Clair": "Clair",
+  "Sombre": "Sombre",
+  "Langue": "Langue",
+  "Rappels de Maintenance": "Rappels de Maintenance",
+  "Activer les rappels": "Activer les rappels",
+  "Fréquence (jours)": "Fréquence (jours)",
+  "Sauvegarder les Paramètres UI": "Sauvegarder les Paramètres UI",
+  "Paramètres UI mis à jour": "Paramètres UI mis à jour",
+  "Rappel de maintenance mis à jour": "Rappel de maintenance mis à jour",
+  "Erreur lors du chargement des paramètres UI": "Erreur lors du chargement des paramètres UI",
+  "Erreur lors de la mise à jour des paramètres UI": "Erreur lors de la mise à jour des paramètres UI",
+  "Erreur lors du chargement des paramètres de maintenance": "Erreur lors du chargement des paramètres de maintenance",
+  "Erreur lors de la mise à jour du rappel de maintenance": "Erreur lors de la mise à jour du rappel de maintenance"
+}

@@ -1,0 +1,19 @@
+{
+    "Paramètres": "Einstellungen",
+    "Préférences d’interface": "Benutzerschnittstellen-Einstellungen",
+    "Thème": "Thema",
+    "Clair": "Hell",
+    "Sombre": "Dunkel",
+    "Langue": "Sprache",
+    "Rappels de Maintenance": "Wartungserinnerungen",
+    "Activer les rappels": "Erinnerungen aktivieren",
+    "Fréquence (jours)": "Frequenz (Tage)",
+    "Sauvegarder les Paramètres UI": "UI-Einstellungen speichern",
+    "Paramètres UI mis à jour": "UI-Einstellungen aktualisiert",
+    "Rappel de maintenance mis à jour": "Wartungserinnerung aktualisiert",
+    "Erreur lors du chargement des paramètres UI": "Fehler beim Laden der UI-Einstellungen",
+    "Erreur lors de la mise à jour des paramètres UI": "Fehler beim Aktualisieren der UI-Einstellungen",
+    "Erreur lors du chargement des paramètres de maintenance": "Fehler beim Laden der Wartungseinstellungen",
+    "Erreur lors de la mise à jour du rappel de maintenance": "Fehler beim Aktualisieren der Wartungserinnerung"
+  }
+  
